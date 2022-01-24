@@ -9,6 +9,7 @@ I'm a 19 years old computer science student from Brazil.
 ### - Learning: 
 
 -🌟 C++
+-✨ Java
   
 <div>
   <a href="https://github.com/GuilhermeButzke">
@@ -18,6 +19,8 @@ I'm a 19 years old computer science student from Brazil.
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Gui-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Gui-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="guilherme-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/luffy-smile-luffy-giggle-one-piece-luffy-gif-21582589.gif">
 </div>
   

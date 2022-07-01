@@ -1,6 +1,6 @@
 <h4 align="center">
   
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://s6.gifyu.com/images/Background.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://s8.gifyu.com/images/NeonCity.gif)
   
 ### Hi, I'm Guilherme 🌌
 

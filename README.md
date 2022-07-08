@@ -1,6 +1,6 @@
 <h4 align="center">
   
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://mentorforex.org/pt/acessovip/wp-content/uploads/2021/11/atualization-bots-play-forex-788x445.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://media4.giphy.com/media/AAe3tt7JNaC6aP94gR/giphy.gif?cid=790b7611ed03096c9ac51363781b9530546ad1284a6e02ae&rid=giphy.gif&ct=g)
 
 
 

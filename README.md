@@ -1,7 +1,9 @@
 <h4 align="center">
   
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://s8.gifyu.com/images/NeonCity.gif)
-  
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://mentorforex.org/pt/acessovip/wp-content/uploads/2021/11/atualization-bots-play-forex-788x445.gif)
+
+
+
 ### Hi, I'm Guilherme 🌌
 
 I'm a 19 years old computer science student from Brazil.
